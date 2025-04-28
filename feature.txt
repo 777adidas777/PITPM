@@ -1,2 +1,4 @@
 Создал feautre brunch b txt
 Меняю, создал конфликт-бранч
+меняю из под conflict branch
+
